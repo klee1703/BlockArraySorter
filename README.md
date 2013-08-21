@@ -1,2 +1,2 @@
-blockArraySorter
+BlockArraySorter
 ================
